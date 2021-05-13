@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+<string name="correct">Правильно!</string>
+    <string name="uncorrect">Неправильно!</string>
+<string name="e30">BMW E30</string>
+<string name="e34">BMW E34</string>
+</resources>
