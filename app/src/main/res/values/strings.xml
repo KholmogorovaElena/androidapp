@@ -1,7 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
-<string name="correct">Правильно!</string>
-    <string name="uncorrect">Неправильно!</string>
-<string name="e30">BMW E30</string>
-<string name="e34">BMW E34</string>
+    <string name="correct">Правильно!</string>
+    <string name="incorrect">Неправильно!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="question0">Первым программистом в истории считается женщина?</string>
+    <string name="question1">В 60–80-х годах курс доллара составлял больше одного рубля?</string>
+    <string name="question2">В Лондоне был открыт первый кинотеатр?</string>
+    <string name="question3">Хризантему считают символом Японии и самого Солнца?</string>
+    <string name="question4">Кот Базилио торговал лечебными пиявками в сказке "Буратино"?</string>
+    <string name="question5">Первый смартфон под управлением операционной системы Android — T-Mobile G1?</string>
 </resources>

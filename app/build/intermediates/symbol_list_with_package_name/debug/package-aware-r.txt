@@ -814,6 +814,7 @@ id all
 id always
 id animateToEnd
 id animateToStart
+id answerTextView
 id asConfigured
 id async
 id autoComplete
@@ -826,8 +827,8 @@ id beginning
 id blocking
 id bottom
 id bounce
-id btne30
-id btne34
+id btnNo
+id btnYes
 id buttonPanel
 id center
 id center_horizontal
@@ -886,7 +887,6 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView3
 id info
 id invisible
 id italic
@@ -945,6 +945,7 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id shortcut
+id showAnswer
 id showCustom
 id showHome
 id showTitle
@@ -1026,6 +1027,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_answer
 layout activity_main
 layout notification_action
 layout notification_action_tombstone
@@ -1080,11 +1082,17 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string correct
-string e30
-string e34
+string incorrect
+string no
+string question0
+string question1
+string question2
+string question3
+string question4
+string question5
 string search_menu_title
 string status_bar_notification_info_overflow
-string uncorrect
+string yes
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
