@@ -1,11 +1,23 @@
 [
     {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_answer.xml.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\layout-land\\activity_answer.xml"
+    },
+    {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ancub.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\ancub.png"
+    },
+    {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\layout\\activity_result.xml"
     },
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -30,10 +42,6 @@
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bmw.png.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\bmw.png"
     },
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -68,7 +76,19 @@
         "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cubik.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\cubik.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cube.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\cube.png"
+    },
+    {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_answer.xml.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\layout\\activity_answer.xml"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cubans.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\cubans.png"
     }
 ]

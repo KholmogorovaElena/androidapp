@@ -4,6 +4,8 @@ com/example/myapplication/Question.java
  com.example.myapplication.Question
 com/example/myapplication/AnswerActivity.java
  com.example.myapplication.AnswerActivity
+com/example/myapplication/Result.java
+ com.example.myapplication.Result
 com/example/myapplication/MainActivity.java
  com.example.myapplication.MainActivity
  com.example.myapplication.MainActivity$1

@@ -760,7 +760,10 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable bmw
+drawable ancub
+drawable cubans
+drawable cube
+drawable cubik
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -924,6 +927,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id resultTextView
 id reverseSawtooth
 id right
 id right_icon
@@ -1029,6 +1033,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_answer
 layout activity_main
+layout activity_result
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
