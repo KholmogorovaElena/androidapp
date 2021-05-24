@@ -4,10 +4,10 @@
     <string name="incorrect">Неправильно!</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
-    <string name="question0">Первым программистом в истории считается женщина?</string>
-    <string name="question1">В 60–80-х годах курс доллара составлял больше одного рубля?</string>
-    <string name="question2">В Лондоне был открыт первый кинотеатр?</string>
-    <string name="question3">Хризантему считают символом Японии и самого Солнца?</string>
-    <string name="question4">Кот Базилио торговал лечебными пиявками в сказке "Буратино"?</string>
-    <string name="question5">Первый смартфон под управлением операционной системы Android — T-Mobile G1?</string>
+    <string name="question0">Всего 5 колод карт в Гвинте?</string>
+    <string name="question1">Эредин Бреакк Гласс представитель краснолюдов?</string>
+    <string name="question2">Господин Зеркало заключил контракт с Йеннифер?</string>
+    <string name="question3">Юлиан Альфред Панкрац виконт де Леттенхоф - полное имя Лютика?</string>
+    <string name="question4">Весемир является лидером Школы Мантикоры?</string>
+    <string name="question5">Уродец Ума - заколдованный эльф Аваллакх?</string>
 </resources>

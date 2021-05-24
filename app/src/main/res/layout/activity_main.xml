@@ -61,6 +61,13 @@
             android:text="@string/no"
             android:textColor="#FFFFFF"
             android:textSize="16sp" />
+        <Button
+            android:id="@+id/isResultAnswer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="Результат опроса" />
+
     </LinearLayout>
 
     <Button

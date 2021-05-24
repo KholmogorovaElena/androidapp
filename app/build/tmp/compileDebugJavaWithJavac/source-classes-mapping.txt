@@ -4,10 +4,12 @@ com/example/myapplication/Question.java
  com.example.myapplication.Question
 com/example/myapplication/AnswerActivity.java
  com.example.myapplication.AnswerActivity
-com/example/myapplication/Result.java
- com.example.myapplication.Result
 com/example/myapplication/MainActivity.java
  com.example.myapplication.MainActivity
  com.example.myapplication.MainActivity$1
  com.example.myapplication.MainActivity$2
  com.example.myapplication.MainActivity$3
+ com.example.myapplication.MainActivity$4
+com/example/myapplication/ResultActivity.java
+ com.example.myapplication.ResultActivity
+ com.example.myapplication.ResultActivity$1

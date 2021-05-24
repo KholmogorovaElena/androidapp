@@ -823,6 +823,7 @@ id async
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id back
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -892,6 +893,7 @@ id ignoreRequest
 id image
 id info
 id invisible
+id isResultAnswer
 id italic
 id jumpToEnd
 id jumpToStart
@@ -927,7 +929,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
-id resultTextView
+id resultAnswer
 id reverseSawtooth
 id right
 id right_icon

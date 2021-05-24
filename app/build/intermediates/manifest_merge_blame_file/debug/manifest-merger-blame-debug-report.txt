@@ -29,9 +29,9 @@
 20        android:testOnly="true"
 21        android:theme="@style/Theme.MyApplication" >
 21-->D:\proj\555\app\src\main\AndroidManifest.xml:11:9-51
-22        <activity android:name="com.example.myapplication.Result" />
-22-->D:\proj\555\app\src\main\AndroidManifest.xml:12:9-53
-22-->D:\proj\555\app\src\main\AndroidManifest.xml:12:19-41
+22        <activity android:name="com.example.myapplication.ResultActivity" />
+22-->D:\proj\555\app\src\main\AndroidManifest.xml:12:9-61
+22-->D:\proj\555\app\src\main\AndroidManifest.xml:12:19-49
 23        <activity android:name="com.example.myapplication.AnswerActivity" />
 23-->D:\proj\555\app\src\main\AndroidManifest.xml:13:9-52
 23-->D:\proj\555\app\src\main\AndroidManifest.xml:13:19-49

@@ -4,14 +4,6 @@
         "source": "D:\\proj\\555\\app\\src\\main\\res\\layout-land\\activity_answer.xml"
     },
     {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ancub.png.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\ancub.png"
-    },
-    {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\layout-land\\activity_main.xml"
     },
@@ -24,8 +16,8 @@
         "source": "D:\\proj\\555\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_result.xml.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\layout-land\\activity_result.xml"
     },
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -48,24 +40,8 @@
         "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -80,15 +56,43 @@
         "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\cubik.png"
     },
     {
-        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cube.png.flat",
-        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\cube.png"
-    },
-    {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_answer.xml.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\layout\\activity_answer.xml"
     },
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cubans.png.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\cubans.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ancub.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\ancub.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cube.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\cube.png"
     }
 ]

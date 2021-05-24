@@ -70,10 +70,10 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alyona\.gr
 		ADDED from D:\proj\555\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\proj\555\app\src\main\AndroidManifest.xml:11:9-51
-activity#com.example.myapplication.Result
-ADDED from D:\proj\555\app\src\main\AndroidManifest.xml:12:9-53
+activity#com.example.myapplication.ResultActivity
+ADDED from D:\proj\555\app\src\main\AndroidManifest.xml:12:9-61
 	android:name
-		ADDED from D:\proj\555\app\src\main\AndroidManifest.xml:12:19-41
+		ADDED from D:\proj\555\app\src\main\AndroidManifest.xml:12:19-49
 activity#com.example.myapplication.AnswerActivity
 ADDED from D:\proj\555\app\src\main\AndroidManifest.xml:13:9-52
 	android:name
