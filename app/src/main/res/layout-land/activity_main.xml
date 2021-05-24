@@ -7,7 +7,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity"
     android:orientation="vertical"
-    android:background="@drawable/cubik"
+    android:background="@drawable/landbg"
     android:gravity="center"
     >
 
@@ -19,7 +19,7 @@
         android:shadowColor="#E1C7C7"
         android:text="@string/question0"
         android:textAlignment="center"
-        android:textColor="#202F83"
+        android:textColor="#FFFFFF"
         android:textColorHighlight="#FAF3F3"
         android:textColorHint="#0A387C"
         android:textColorLink="#FFFFFF"
@@ -64,6 +64,12 @@
             android:text="@string/no"
             android:textColor="#FFFFFF"
             android:textSize="16sp" />
+        <Button
+            android:id="@+id/isResultAnswer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="Показать результат" />
 
     </LinearLayout>
 

@@ -760,12 +760,9 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable ancub
-drawable cubans
-drawable cube
-drawable cubik
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable landbg
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -778,8 +775,12 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable resultland
+drawable resultvertical
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable verticalbg
+drawable verticalbg2
 id ALT
 id CTRL
 id FUNCTION
@@ -983,6 +984,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textView
+id textView2
 id time
 id title
 id titleDividerNoCustom

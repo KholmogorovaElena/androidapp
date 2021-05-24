@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void setResult(int num, boolean question) {
-        resultOfanswer.append("Question №" + (num+1) + ". " + getString(questions[questionIndex].getQuestionResId()) + ": " + ((question) ? "Правильно !" : "Неправильно! ") + "\n"+"\n");
+        resultOfanswer.append("Вопрос №" + (num+1) + ". " +  ((question) ? "Правильно !" : "Неправильно! ") +"\n");
     }
 
     public void showResult() {

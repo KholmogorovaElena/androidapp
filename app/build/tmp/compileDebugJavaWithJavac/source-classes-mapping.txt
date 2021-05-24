@@ -1,9 +1,5 @@
 com/example/myapplication/BuildConfig.java
  com.example.myapplication.BuildConfig
-com/example/myapplication/Question.java
- com.example.myapplication.Question
-com/example/myapplication/AnswerActivity.java
- com.example.myapplication.AnswerActivity
 com/example/myapplication/MainActivity.java
  com.example.myapplication.MainActivity
  com.example.myapplication.MainActivity$1
@@ -13,3 +9,7 @@ com/example/myapplication/MainActivity.java
 com/example/myapplication/ResultActivity.java
  com.example.myapplication.ResultActivity
  com.example.myapplication.ResultActivity$1
+com/example/myapplication/AnswerActivity.java
+ com.example.myapplication.AnswerActivity
+com/example/myapplication/Question.java
+ com.example.myapplication.Question
