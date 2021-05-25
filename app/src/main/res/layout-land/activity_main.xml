@@ -41,16 +41,18 @@
         app:layout_constraintBottom_toBottomOf="parent"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="1dp">
+
         <Button
             android:id="@+id/btnYes"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="top"
-            android:layout_marginRight="10dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="70dp"
             android:layout_weight="0"
-            android:background="#33CC99"
+            android:background="#032C0E"
             android:text="@string/yes"
-            android:textColor="#FFFFFF"
+            android:textColor="#4EA63F"
             android:textSize="16sp" />
 
         <Button
@@ -58,32 +60,37 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="top"
-            android:layout_marginLeft="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="70dp"
             android:layout_weight="0"
-            android:background="#FF6633"
+            android:background="#6C0B1F"
             android:text="@string/no"
-            android:textColor="#FFFFFF"
+            android:textColor="#FD5B5B"
             android:textSize="16sp" />
+
         <Button
-            android:id="@+id/isResultAnswer"
+            android:id="@+id/showAnswer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="70dp"
             android:layout_weight="0"
-            android:text="Показать результат" />
+            android:background="#290328"
+            android:text="ПОКАЗАТЬ ОТВЕТ"
+            android:textColor="#BD34EF"
+            android:textSize="12sp" />
 
     </LinearLayout>
 
     <Button
-        android:id="@+id/showAnswer"
-        android:layout_width="108dp"
+        android:id="@+id/isResultAnswer"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#9966CC"
-        android:textColor="#C0C0C0"
-        android:textSize="16sp"
-        android:text="Показать ответ"
-        app:layout_constraintBottom_toTopOf="@+id/textView"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:layout_weight="0"
+        android:layout_marginTop="40dp"
+        android:background="#000000"
+        android:text="Показать результат"
+        android:textColor="#FFFFFF" />
 
 </LinearLayout>

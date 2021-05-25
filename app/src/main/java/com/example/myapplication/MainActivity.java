@@ -29,11 +29,16 @@ public class MainActivity extends AppCompatActivity {
             new Question(R.string.question2,false),
             new Question(R.string.question3,true),
             new Question(R.string.question4,false),
-            new Question(R.string.question5, true)
+            new Question(R.string.question5, true),
+            new Question(R.string.question6, false),
+            new Question(R.string.question7, true),
+            new Question(R.string.question8,true),
+            new Question(R.string.question9,false)
     };
     private int questionIndex = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        startService(new Intent(MainActivity.this, SoundService.class));
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("SYSTEM INFO: ", "Метод onCreate() запущен");
@@ -120,7 +125,11 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("resultList", resultOfanswer.toString());
         startActivity(intent);
     }
-
+    @Override
+    public void onBackPressed() {
+        stopService(new Intent(MainActivity.this, SoundService.class));
+        super.onBackPressed();
+    }
 
     @Override
     public void onStart(){
@@ -142,6 +151,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onPause(){
         super.onPause();
+
         Log.d("SYSTEM INFO: ", "Метод onPause() запущен");
     }
     @Override
