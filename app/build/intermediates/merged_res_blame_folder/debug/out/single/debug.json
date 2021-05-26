@@ -44,8 +44,16 @@
         "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first.xml.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_firstvertical.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\firstvertical.png"
     },
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resultland.png.flat",
@@ -62,6 +70,10 @@
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_answer.xml.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\layout\\activity_answer.xml"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_first.xml.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\layout-land\\activity_first.xml"
     },
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
@@ -98,5 +110,13 @@
     {
         "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "D:\\proj\\555\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\drawable_firstland.png.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\drawable\\firstland.png"
+    },
+    {
+        "merged": "D:\\proj\\555\\app\\build\\intermediates\\res\\merged\\debug\\raw_song.mp3.flat",
+        "source": "D:\\proj\\555\\app\\src\\main\\res\\raw\\song.mp3"
     }
 ]

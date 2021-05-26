@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
     private Button isResultAnswer;
     private TextView resultAnswer;
     private StringBuilder resultOfanswer = new StringBuilder();
-   
 
     private final Question[] questions = new Question[]{
             new Question(R.string.question0,true),
@@ -38,8 +37,10 @@ public class MainActivity extends AppCompatActivity {
     private int questionIndex = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        startService(new Intent(MainActivity.this, SoundService.class));
+
+
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main);
         Log.d("SYSTEM INFO: ", "Метод onCreate() запущен");
 
@@ -125,11 +126,7 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("resultList", resultOfanswer.toString());
         startActivity(intent);
     }
-    @Override
-    public void onBackPressed() {
-        stopService(new Intent(MainActivity.this, SoundService.class));
-        super.onBackPressed();
-    }
+
 
     @Override
     public void onStart(){

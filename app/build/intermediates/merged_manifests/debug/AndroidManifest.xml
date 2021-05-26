@@ -19,15 +19,20 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
-        <activity android:name="com.example.myapplication.ResultActivity" />
-        <activity android:name="com.example.myapplication.AnswerActivity" />
-        <activity android:name="com.example.myapplication.MainActivity" >
+        <activity android:name="com.example.myapplication.FirstActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.myapplication.ResultActivity" />
+        <activity android:name="com.example.myapplication.AnswerActivity" />
+        <activity android:name="com.example.myapplication.MainActivity" />
+
+        <service
+            android:name="com.example.myapplication.SoundService"
+            android:enabled="true" />
     </application>
 
 </manifest>
