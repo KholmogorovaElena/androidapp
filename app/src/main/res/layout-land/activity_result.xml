@@ -7,34 +7,31 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:gravity="center_horizontal"
     android:background="@drawable/resultland"
-    tools:context=".ResultActivity"
-    android:orientation="horizontal">
+    tools:context=".ResultActivity">
 
-
-        <TextView
-            android:id="@+id/resultAnswer"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="#FFFFFF"
-            android:textSize="24sp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.498"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.135" />
 
     <Button
         android:id="@+id/back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="0"
-        android:layout_marginTop="40dp"
+        android:layout_gravity="bottom"
         android:background="#320F2E"
         android:padding="10sp"
         android:text="Ответить заново"
-        android:textColor="#FFFFFF"
-        />
+        android:textColor="#FFFFFF" />
 
+    <TextView
+        android:id="@+id/resultAnswer"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="339dp"
+        android:layout_height="261dp"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.135" />
 
 </LinearLayout>
